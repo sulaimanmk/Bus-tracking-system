@@ -1,0 +1,31 @@
+{
+  "name": "bus-tracker-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulaimanmk/bus-tracker-server.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[B\u001b[A\u001b[A\u001b[B\u001b[A\u001b[A\u001b[B\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D"
+  ],
+  "author": "Lungisile Ginindza, Sulaiman Kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulaimanmk/bus-tracker-server/issues"
+  },
+  "homepage": "https://github.com/sulaimanmk/bus-tracker-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

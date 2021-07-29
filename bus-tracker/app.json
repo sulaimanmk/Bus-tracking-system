@@ -1,0 +1,12 @@
+{
+  "name": "bus-tracker",
+  "displayName": "bus-tracker",
+  "expo": {
+    "name": "bus-tracker",
+    "slug": "bus-tracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

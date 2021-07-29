@@ -1,0 +1,3 @@
+export const SET_STATE_PROPERTY = 'SET_STATE_PROPERTY'
+export const SET_CURRENT_STOP = 'SET_CURRENT_STOP'
+export const GET_BUSES = 'GET_BUSES'
